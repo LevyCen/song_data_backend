@@ -1,8 +1,8 @@
 # Data Song API REST Backend
 
 ## Software version
-* Python
-* Django 
+* Python 3.6.9
+* Django 3.2.4
 
 ## Functionalities
 
