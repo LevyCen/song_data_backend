@@ -9,5 +9,5 @@
 
 ## Entity relation diagram
 
-![Entity relation diagram](image/entity_relationship_diagram.jpg)
+![Entity relation diagram](https://github.com/LevyCen/song_data_backend/blob/master/documentation/entity_relationship_diagram.png?raw=true)
  
